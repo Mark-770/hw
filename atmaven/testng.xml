@@ -1,0 +1,8 @@
+<suite name="TestSuite">
+    <test name="Test1"   >
+        <packages>
+            <package name="ru.technoserv.atmaven.tests" />
+        </packages>
+
+    </test>
+</suite>
